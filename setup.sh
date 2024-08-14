@@ -26,9 +26,9 @@ az extension add -n ml -y
 
 ## For backward compatibility - running on old subscription
 # <set_variables>
-GROUP="testml"
+GROUP="BhaskarGLML"
 LOCATION="eastus"
-WORKSPACE="azureml"
+WORKSPACE="BhaskarGLML"
 # </set_variables>
 
 # If RESOURCE_GROUP_NAME is empty, the az configure is pending.
